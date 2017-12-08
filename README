@@ -1,0 +1,6 @@
+Some packages for openwrt
+
+.. which are not available in any of the official feeds.
+
+To use this feed, add this line to feeds.conf.default:
+ src-git robho https://github.com/robho/openwrt_packages.git
